@@ -63,7 +63,8 @@ A：请前往手机设置，找到类似于「应用设置」-> 「应用管理�
 
 ## 下载链接
 
-百度网盘：**TBD** 
+百度网盘： [https://pan.baidu.com/s/1vDzctpBXrQJTe_5MxpubsA?pwd=juxm](https://pan.baidu.com/s/1vDzctpBXrQJTe_5MxpubsA?pwd=juxm) 提取码: juxm
 
-蓝奏云：**TBD** 
+蓝奏云：[https://wwbca.lanzoue.com/iJtgx3e211if](https://wwbca.lanzoue.com/iJtgx3e211if) 密码: 9hnc
 
+GitHub Release：[https://github.com/Shujiaopei/LiveNotify/releases/download/v1.0/LiveNotify.1.0.apk](https://github.com/Shujiaopei/LiveNotify/releases/download/v1.0/LiveNotify.1.0.apk)
