@@ -1,6 +1,6 @@
 {
-    "versionName": "1.2",
-    "downloadUrl": "https://cnb.cool/Shujiaopei/LiveNotify/-/releases/download/v1.2/LiveNotify.1.2.apk",
-    "updateDescription": "这里是 1.2 版本！\n\n以下是这个版本的更新内容：\n · 优化监听逻辑，与服务器的连接更稳定了\n · 移除了 bugly 模块\n · 修复了已知问题",
+    "versionName": "1.2.1",
+    "downloadUrl": "https://cnb.cool/Shujiaopei/LiveNotify/-/releases/download/v1.2.1/LiveNotify.1.2.1.apk",
+    "updateDescription": "这里是 1.2.1 版本！\n\n以下是这个版本的更新内容：\n · 修复部分情况下无法重连的问题\n · 修复了已知问题",
     "forceUpdate": false
   }
